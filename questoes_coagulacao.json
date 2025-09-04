@@ -97,7 +97,7 @@
       "Inibindo diretamente a agregação plaquetária.",
       "Degradando o fibrinogênio.",
       "Ativando a plasmina para dissolver o coágulo.",
-      "Ligando-se e ativando a antitrombina III, que inativa fatores de coagulação."
+      "Ligando-se e ativando a antitrombina III."
     ],
     "correctIndex": 4,
     "explanation": "O sulfato de heparina, um glicosaminoglicano presente nas células endoteliais, liga-se e ativa a antitrombina III. A antitrombina III, por sua vez, degrada e inativa os fatores de coagulação Fator II (trombina), Fator IX e Fator X.",
@@ -225,8 +225,8 @@
     "options": [
       "Fator VII",
       "Fator V",
-      "Fator I (Fibrinogênio)",
-      "Fator III (Tecidual)",
+      "Fator I",
+      "Fator III",
       "Fator XII"
     ],
     "correctIndex": 4,
@@ -237,9 +237,9 @@
     "question": "Um paciente em uso de Heparina para profilaxia de trombose precisa de um procedimento cirúrgico. Para reduzir o risco de sangramento, qual é a abordagem mais direta baseada no mecanismo de ação da Heparina?",
     "options": [
       "Aumentar a dose de Fator Tecidual.",
-      "Inibir a plasmina para fortalecer o coágulo.",
-      "Interromper a Heparina para reduzir o potencial de sangramento excessivo, já que ela potencializa a antitrombina III inativando fatores de coagulação.",
-      "Inibir a glicoproteína 2B/3A para prevenir agregação plaquetária.",
+      "Inibir a plasmina para fortalecer o coágulo, já que ela quebra o coágulo.",
+      "Interromper a Heparina para reduzir o potencial de sangramento excessivo, já que ela potencializa a antitrombina III.",
+      "Inibir a glicoproteína 2B/3A para prevenir agregação plaquetária, já que ela induz antitrombina III.",
       "Administrar Varfarina para antagonizar seus efeitos."
     ],
     "correctIndex": 2,
@@ -250,7 +250,7 @@
     "question": "Em caso de uma lesão vascular, qual é a sequência correta dos eventos primários e secundários para o controle do sangramento, conforme os mecanismos de hemostasia e coagulação?",
     "options": [
       "Espasmo vascular, coagulação, formação do tampão plaquetário.",
-      "Espasmo vascular, formação do tampão plaquetário, coagulação (formação da rede de fibrina).",
+      "Espasmo vascular, formação do tampão plaquetário, coagulação.",
       "Fibrinólise, formação do coágulo, espasmo vascular.",
       "Coagulação, retração do coágulo, espasmo vascular.",
       "Formação do tampão plaquetário, espasmo vascular, fibrinólise."
